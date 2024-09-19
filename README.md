@@ -4,12 +4,12 @@
 2. Make sure every project have the desired values on `.env` file. An `.env.demo` is provided
    to have a guide
 
-first terminal instance:
+FIRST terminal instance:
 
 3. `cd BE && npm i`
 4. `npm run dev`
 
-second terminal instance:
+SECOND terminal instance:
 
 5. `cd FE && npm i`
 6. `npm run dev {port}`
